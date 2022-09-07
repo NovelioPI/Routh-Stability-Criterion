@@ -1,6 +1,6 @@
 import routh.*
 
-K = 7500;
+K = input("K : ");
 p = [1 19 560 K];
 
 routh(p);
